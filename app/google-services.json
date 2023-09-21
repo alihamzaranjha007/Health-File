@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992489059812",
+    "firebase_url": "https://health-file-default-rtdb.firebaseio.com",
+    "project_id": "health-file",
+    "storage_bucket": "health-file.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992489059812:android:f93453cca8bb38dc17c3f1",
+        "android_client_info": {
+          "package_name": "com.example.healthfile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992489059812-dkiv9n0iuuaq45n1u5a68dvvm50iceo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRZvlNMmDO6hvEeBHDGoi52nM3-glvYPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992489059812-dkiv9n0iuuaq45n1u5a68dvvm50iceo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
